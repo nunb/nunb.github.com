@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://nunb.github.com/blog/2011/10/01/communication-and-collaboration/</loc>
+        <lastmod>2011-12-01T23:30:24+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://nunb.github.com/blog/2011/11/16/clojure-conj-the-second/</loc>
+        <lastmod>2011-12-01T23:30:24+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://nunb.github.com/blog/2011/12/01/migrating-content/</loc>
+        <lastmod>2011-12-01T23:30:24+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://nunb.github.com/blog/archives/</loc>
+        <lastmod>2011-12-01T23:30:24+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://nunb.github.com/</loc>
+        <lastmod>2011-12-01T23:30:24+05:30</lastmod>
+    </url>
+</urlset>

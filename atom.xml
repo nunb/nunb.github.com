@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Conjurer</title>
+  <link href="http://nunb.github.com/atom.xml" rel="self"/>
+  <link href="http://nunb.github.com/"/>
+  <updated>2011-12-01T23:35:51+05:30</updated>
+  <id>http://nunb.github.com/</id>
+  <author>
+    <name>Nandan Bagchee</name>
+    
+  </author>
+
+  
+  <entry>
+    <title>Migrating Content</title>
+    <link href="http://nunb.github.com/blog/2011/12/01/migrating-content/"/>
+    <updated>2011-12-01T18:44:00+05:30</updated>
+    <id>http://nunb.github.com/blog/2011/12/01/migrating-content</id>
+    <content type="html">&lt;p&gt;I am in the process of migrating my various writings from around the web here, and re-tagging all content.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Clojure Conj the Second</title>
+    <link href="http://nunb.github.com/blog/2011/11/16/clojure-conj-the-second/"/>
+    <updated>2011-11-16T13:03:00+05:30</updated>
+    <id>http://nunb.github.com/blog/2011/11/16/clojure-conj-the-second</id>
+    <content type="html">&lt;p&gt;I am still trying to distill some thoughts from the 2nd Clojure Conj in Raleigh (Nov 9th-12th).&lt;/p&gt;
+
+&lt;p&gt;Meanwhile my &lt;a href=&quot;http://twitter.com/nandanbagchee/&quot;&gt;twitter page&lt;/a&gt; has some impressions from that period, and some might be visible in the sidebar on this page.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Communication &amp; Collaboration</title>
+    <link href="http://nunb.github.com/blog/2011/10/01/communication-and-collaboration/"/>
+    <updated>2011-10-01T18:25:00+05:30</updated>
+    <id>http://nunb.github.com/blog/2011/10/01/communication-and-collaboration</id>
+    <content type="html">&lt;p&gt;I&amp;#8217;ve been reading a book on the history of Bayesian statistics. Separately I&amp;#8217;ve
+also been a fan of Neal Stephenson&amp;#8217;s Baroque cycle, which I read a few years ago,
+and sections of the book on Bayes&amp;#8217; Theorem cover the same time period the Baroque Cycle
+is set in.&lt;/p&gt;
+
+&lt;p&gt;One of the things that really stood out for me while reading these book was the
+sense of time dilation that people then accepted as a matter of course. Or, in
+reverse terms, the incredible instant-gratification culture we live with today.&lt;/p&gt;
+
+&lt;p&gt;For example, then, huge, world changing discoveries in the sciences might have made barely a
+ripple due to the inefficiencies of dissemination. This was not only due to
+limited venues for such dispersal, but even where such venues existed, the
+topic of the discovery had no sympathetic ear  to fall upon, for example, a
+Royal Society meeting where the one like-minded collaborator was unable to
+attend due to, say, the difficulties of travel.&lt;/p&gt;
+
+&lt;p&gt;A few months ago, a friend of mine showed me a mathematical paper he had
+written that had been accepted on Arxiv (an online journal that is not
+mendaciously profit oriented, unlike the zillions of other journals out there).
+In contrast, Ramanujan went for years without recognition in Western mathematical circles, writing his work
+down in notebooks, which he then sent en-masse to a mentor in England. What if
+they&amp;#8217;d been lost on the sea-voyage? The possibility of shipwreck certainly
+existed in 1912. The transmission of information was an exercise fraught with hazard, and the useful end-points
+for such delivery limited.&lt;/p&gt;
+
+&lt;p&gt;Or for another example, the other day I was doing some research into skip-list
+data-structures and was able to easily access the original papers involved,
+using tools such as Google Scholar and just plain searching. Even a few years ago, this kind of
+information was hard to come by.&lt;/p&gt;
+
+&lt;p&gt;In some ways though, even today, I feel the value of collaboration is under-appreciated. Partly we have
+conquered the problem of not having a medium by going over to the other extreme &amp;#8211; that of
+having lots of channels, but they are all now incredibly noisy. The value of collaboration is under-appreciated
+because of the pain one has to go through to find the &lt;em&gt;right&lt;/em&gt; collaborator.&lt;/p&gt;
+
+&lt;p&gt;In a book by Gary Taubes, a science writer, he refers to the fact that those on
+the practising side of medicine are far removed from the latest discoveries on
+the research side. If a discovery does not have a corporation disseminating
+that information, it is unlikely to get through to the practitioners, most of
+whom are working off knowledge gleaned from textbooks read during their college
+years, decades in the past. (In medical specialities, this is less of a problem.)&lt;/p&gt;
+
+&lt;p&gt;The bazaar model has been conspicuously successful in software. In fact,
+companies have been spun out of various facets of the bazaar model, for
+example, github. But it has not been applied, afaik, to its full potential
+in research.&lt;/p&gt;
+
+&lt;p&gt;Even as a novice researcher, I find it difficult to keep track of all the
+information I have gathered, and finding collaborators for my multifarious
+interests is so difficult, that I barely even try.&lt;/p&gt;
+
+&lt;p&gt;Imagine how much the world would benefit if it were easy to organize knowledge
+and gain collaborators from a personal perspective? Unlike say, google or
+google scholar, this kind of network would spread outwards, from me as an
+individual to others in the same field, decentralized instead of centralized.&lt;/p&gt;
+
+&lt;p&gt;Why should matching algorithms exist (and by hyped by) dating websites, when they
+are so much more applicable to researchers with similar interests? An academic who&amp;#8217;s
+listed their research interests is much more likely to be honest and comprehensive
+than a teenager on a dating website like okcupid &amp;#8211; which means the conclusions drawn
+by the matching algorithm are much more likely to be robust.&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
